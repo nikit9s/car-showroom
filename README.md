@@ -22,3 +22,12 @@ To get started with this project, clone the repository and navigate to the proje
 git clone https://github.com/yourusername/car-showroom.git
 cd car-showroom
 # compile and run the application
+```
+## Contributing
+
+Feel free to fork the repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is open source and available under the MIT License.
+https://github.com/nikit9s/car-showroom.git
